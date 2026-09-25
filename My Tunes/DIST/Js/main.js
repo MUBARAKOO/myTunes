@@ -1,3 +1,4 @@
+// dropdown menu
 $(function () {
   menu = $("nav ul");
 
